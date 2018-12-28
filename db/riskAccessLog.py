@@ -2,10 +2,10 @@ import mysql.connector
 from mysql.connector import Error
 
 config = {
-  'user': 'webrisk',
-  'password': 'virgo',
-  'host': '10.1.2.25',
-  'database': 'web_risk',
+  'user': 'xxxx',
+  'password': 'xxxx',
+  'host': 'xxxx',
+  'database': 'xxx',
   'raise_on_warnings': True
 }
 
